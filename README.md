@@ -8,7 +8,7 @@ Datasets are collected on youtube (singing, speaking with chinese , english and 
 ```
 
 Make sure create a following dataset folder and put .wav under each categories
-
+```
 -- data
   -- train 
     -- silence 
@@ -24,7 +24,7 @@ Make sure create a following dataset folder and put .wav under each categories
     -- silence 
     -- singing 
     -- speaking 
-
+```
 ## Training 
 
 ```
