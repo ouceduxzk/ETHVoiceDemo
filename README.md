@@ -28,7 +28,8 @@ Make sure create a following dataset folder and put .wav under each categories
 ## Training 
 
 ```
-python train_val.py 
+pip3 install -r requirements.txt 
+python3 train_val.py 
 
 ```
 
